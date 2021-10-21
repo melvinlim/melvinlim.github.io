@@ -23,7 +23,7 @@ markdown comment example
 ![Image](src)
 ```
 
-[README Link](README.md)
+[README Link]({% link README.md %})
 
 [Play Tetris](tetris.html)
 
