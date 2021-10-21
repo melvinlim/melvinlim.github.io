@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 ## Melvin Lim's portfolio
 
 my attempts to create a portfolio
