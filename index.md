@@ -20,14 +20,14 @@
 my attempts to create a portfolio
 
 ### Pages
-
+<!--
 <ul>
   {% assign mypages = site.pages | sort: "order" %}
     {% for page in mypages %}
     <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
     {% endfor %}
 </ul>
-
+-->
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
