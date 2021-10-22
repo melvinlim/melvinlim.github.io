@@ -14,17 +14,16 @@ body {
 .myNav ul {
   list-style: none;
   padding: 0px;
-  margin: 0px;
+  margin: 5px;
 }
 .myNav li {
-  float: left;
-  /* Or you can use display: inline; */
+  display: inline;
 }
 /* Define the block styling for the links */
 .myNav li a {
   display: inline-block;
   text-align: center;
-  padding: 0px 0px;
+  padding: 0px 5px;
 }
 
 .myNav li a:hover {
