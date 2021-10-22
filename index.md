@@ -27,8 +27,6 @@ markdown comment example
 ![Image](src)
 ```
 
-[README Link]({% link README.md %})
-
 [Play Tetris](tetris.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
