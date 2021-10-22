@@ -6,15 +6,15 @@ body {
 /* Define the main Navigation block */
 .myNav {
   display: block;
-  height: 50px;
+  height: 25px;
   line-height: 50px;
-  background-color: #333;
+  background-color: gray;
 }
 /* Remove bullets, margin and padding */
 .myNav ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 5px;
+  margin: 5px;
 }
 .myNav li {
   float: left;
@@ -28,5 +28,5 @@ body {
 }
 /* This is optional, however if you want to display the active link differently apply a background to it */
 .myNav li a.active {
-  background-color: #3786E1;
+  background-color: blue;
 }
