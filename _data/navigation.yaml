@@ -1,8 +1,5 @@
 - title: Sample page 1
-    url: /index.md/
+    url: index.md
 
 - title: Sample page 2
-    url: /tetris.html/
-
-- title: Sample page 3
-    url: /page-3-permalink/
+    url: tetris.html
