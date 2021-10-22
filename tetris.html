@@ -1,20 +1,29 @@
 <html>
-<head>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-tetris
-<br>
-<table width="160">
-<td align="left"><p style="color:white" id="score"></p></td><td align="right"><p style="color:white" id="time"></p></td>
-</table>
-<canvas id="myCanvas" width="140" height="300" style="border:10px solid #aaaaaa;"></canvas>
-<!--
-<script type="application/javascript" src="https://raw.githubusercontent.com/melvinlim/webpage/master/js/tetris.js">
-  -->
-<script type="application/javascript" src="tetris/tetris.js">
-</script>
-<br>
-<a href="/">return to homepage</a>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <div id="nav-placeholder"></div>
+    <script>
+      $(function(){
+              $("#nav-placeholder").load("nav.html");
+            });
+    </script>
+    <h1>
+    Javascript Tetris
+    </h1>
+    <br>
+    <table width="160">
+      <td align="left"><p style="color:white" id="score"></p></td><td align="right"><p style="color:white" id="time"></p></td>
+    </table>
+    <canvas id="myCanvas" width="140" height="300" style="border:10px solid #aaaaaa;"></canvas>
+    <!--
+      <script type="application/javascript" src="https://raw.githubusercontent.com/melvinlim/webpage/master/js/tetris.js">
+        -->
+          <script type="application/javascript" src="tetris/tetris.js">
+          </script>
+          <br>
+          <a href="/">return to homepage</a>
+  </body>
 </html>
