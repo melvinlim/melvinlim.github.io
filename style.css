@@ -13,8 +13,8 @@ body {
 /* Remove bullets, margin and padding */
 .myNav ul {
   list-style: none;
-  padding: 5px;
-  margin: 5px;
+  padding: 0px;
+  margin: 0px;
 }
 .myNav li {
   float: left;
@@ -24,9 +24,9 @@ body {
 .myNav li a {
   display: inline-block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0px 0px;
 }
-/* This is optional, however if you want to display the active link differently apply a background to it */
-.myNav li a.active {
+
+.myNav li a:hover {
   background-color: blue;
 }
