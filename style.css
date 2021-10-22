@@ -3,6 +3,16 @@ body {
   background-color: black;
 }
 
+h1 {
+  margin: 1%;
+}
+h2 {
+  margin: 1%;
+}
+p {
+  margin: 2%;
+}
+
 /* Define the main Navigation block */
 .myNav {
   display: block;
