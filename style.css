@@ -41,15 +41,10 @@ p {
   margin: 5px;
 }
 .myNav li {
+  font-size:16px;
+  font-size:4vw;
   display: inline;
 }
-/* Define the block styling for the links */
-.myNav li a {
-  display: inline-block;
-  text-align: center;
-  padding: 0px 5px;
-}
-
 .myNav li a:hover {
   background-color: blue;
 }
