@@ -38,11 +38,12 @@ p {
 .myNav ul {
   list-style: none;
   padding: 0px;
-  margin: 5px;
+  margin: 0.5vw;
 }
 .myNav li {
   font-size:16px;
-  font-size:4vw;
+  font-size:min(4vw,32px);
+  margin:0.5vw;
   display: inline;
 }
 .myNav li a:hover {
