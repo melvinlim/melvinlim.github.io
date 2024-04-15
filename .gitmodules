@@ -1,3 +1,6 @@
 [submodule "tetris"]
 	path = tetris
 	url = https://github.com/melvinlim/tetris
+[submodule "threemmd"]
+	path = threemmd
+	url = https://github.com/melvinlim/threemmd.git
