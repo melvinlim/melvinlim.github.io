@@ -33,6 +33,7 @@ p {
   height: 50px;
   line-height: 50px;
   background-color: gray;
+  overflow: hidden;
 }
 /* Remove bullets, margin and padding */
 .myNav ul {
