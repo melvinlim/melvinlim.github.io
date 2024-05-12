@@ -1,4 +1,4 @@
-## Welcome to Melvin Lim's portfolio
+## Welcome to Melvin Lim's webpage
 
 [Click here to go to the actual page.](https://melvinlim.github.io)
 
