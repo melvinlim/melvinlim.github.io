@@ -4,3 +4,6 @@
 [submodule "threemmd"]
 	path = threemmd
 	url = https://github.com/melvinlim/threemmd.git
+[submodule "timer"]
+	path = timer
+	url = https://github.com/melvinlim/intervaltimer
